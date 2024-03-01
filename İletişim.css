@@ -370,6 +370,48 @@
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 400px;
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -36px;
+    margin-right: -55px;
+    margin-left: 55px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: -36px;
+    margin-right: -55px;
+    margin-left: 55px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-top: -36px;
+    margin-right: -55px;
+    margin-left: 55px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-text-8 {
+    width: auto;
+    margin-top: -36px;
+    margin-right: -55px;
+    margin-left: 55px;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-top: 28px;
+  }
 }
