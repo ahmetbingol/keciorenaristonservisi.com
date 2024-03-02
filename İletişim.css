@@ -162,7 +162,7 @@
 
 .u-section-1 .u-text-10 {
   font-size: 2.8125rem;
-  margin: 0 28px 0 8px;
+  margin: 0 8px;
 }
 
 .u-section-1 .u-btn-4 {
@@ -171,8 +171,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 19px auto 0 0;
-  padding: 10px 71px;
+  margin: 44px auto 0;
+  padding: 15px 79px 16px 78px;
 }
 
 .u-section-1 .u-btn-5 {
@@ -181,8 +181,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 55px auto 0 0;
-  padding: 10px 71px;
+  margin: 40px auto 0;
+  padding: 15px 79px 16px 78px;
 }
 
 .u-section-1 .u-btn-6 {
@@ -191,8 +191,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 55px auto 0 0;
-  padding: 10px 72px 10px 71px;
+  margin: 40px auto 0;
+  padding: 15px 80px 16px 79px;
 }
 
 .u-section-1 .u-btn-7 {
@@ -201,8 +201,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 40px auto 0 0;
-  padding: 10px 50px 10px 49px;
+  margin: 40px auto 0;
+  padding: 15px 54px 16px;
 }
 
 .u-section-1 .u-btn-8 {
@@ -211,8 +211,8 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: 37px auto 0 0;
-  padding: 10px 65px 10px 64px;
+  margin: 40px auto 0;
+  padding: 15px 72px 16px;
 }
 
 @media (max-width: 1199px) {
@@ -270,11 +270,11 @@
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 405px;
+    min-height: 708px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 405px;
+    min-height: 608px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -300,20 +300,16 @@
 
 @media (max-width: 767px) {
    .u-section-1 {
-    min-height: 1766px;
+    min-height: 1012px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 681px;
+    min-height: 912px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 374px;
   }
 
   .u-section-1 .u-icon-1 {
@@ -360,15 +356,11 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1429px;
+    min-height: 674px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 429px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 574px;
   }
 
   .u-section-1 .u-text-2 {
